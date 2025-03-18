@@ -19,7 +19,7 @@ function BlogPosts() {
 
   return (
     <div>
-      <SectionArea className="squares" paddingbot={false}>
+      <SectionArea className="squares" paddingbot={true}>
         <SectionWrapper>
           <SectionHeader
             className="text-center"
