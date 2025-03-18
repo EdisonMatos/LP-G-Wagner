@@ -2,6 +2,7 @@ import MotionDivDownToUp from "../animation/MotionDivDownToUp";
 import content from "../../content/content";
 import Button from "../interactives/Button";
 import { FaWhatsapp } from "react-icons/fa";
+import MotionDivRightToLeft from "../animation/MotionDivRightToLeft";
 
 const whatsappContactLink = `${content.texts.links.ctaWhatsapp}`;
 
@@ -34,7 +35,6 @@ export default function Hero({ appDownloadButtons, personImg, fundoImage }) {
                   <MotionDivDownToUp>
                     <div className="flex justify-center w-full text-center desktop1:text-left desktop1:justify-start font-secondFont text-paragraph4 phone3:text-paragraph5">
                       <p className="text-white mb-[32px] opacity-80">
-
                         {content.texts.hero.subtitle}
                       </p>
                     </div>
@@ -55,7 +55,6 @@ export default function Hero({ appDownloadButtons, personImg, fundoImage }) {
                         <div className="flex flex-col items-center desktop1:flex-row text-primary">
                           {content.texts.hero.obsHero.icon}
                           <p className="text-white opacity-80 ml-[10px] text-center mt-[12px] desktop1:mt-0">
-
                             {content.texts.hero.obsHero.text}
                           </p>
                         </div>
@@ -65,7 +64,6 @@ export default function Hero({ appDownloadButtons, personImg, fundoImage }) {
                       <MotionDivDownToUp>
                         <div className="flex flex-col items-center desktop1:items-start">
                           <p className="mb-[20px] mt-[60px] text-white opacity-80 text-center">
-
                             {content.texts.hero.app.description}
                           </p>
                           <div className="">
@@ -206,7 +204,7 @@ export default function Hero({ appDownloadButtons, personImg, fundoImage }) {
                   </div>
                 </div>
                 <div className="flex justify-center w-[90%] tablet1:w-[450px] desktop1:w-[35%]">
-                  <MotionDivDownToUp className="relative flex items-end justify-center w-full desktop2:justify-end">
+                  <MotionDivRightToLeft className="relative flex items-end justify-center w-full desktop2:justify-end">
                     <img
                       src={content.texts.hero.personImg}
                       className="relative hidden desktop1:right-10 desktop1:flex"
@@ -224,7 +222,7 @@ export default function Hero({ appDownloadButtons, personImg, fundoImage }) {
                     backgroundSize: "",
                   }}
                 ></div> */}
-                  </MotionDivDownToUp>
+                  </MotionDivRightToLeft>
                 </div>
               </div>
             </div>
