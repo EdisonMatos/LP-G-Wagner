@@ -100,11 +100,11 @@ const content = {
       title: (
         <h1 className="mb-[16px]">
           Nos momentos mais difíceis,
-          <span className="text-primary"> você não estará sozinho</span>
+          <span className="text-primary"> você terá a orientação certa.</span>
         </h1>
       ),
       subtitle:
-        "Justiça não é sorte, é estratégia. Com experiência e dedicação, viramos o jogo a favor dos nossos clientes.",
+        "A justiça exige conhecimento e estratégia. Com experiência e compromisso, buscamos sempre a melhor solução para você.",
       heroImg: heroImg,
       personImg: personImg,
       personImgPhone: personImgPhone,
