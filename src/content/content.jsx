@@ -56,9 +56,9 @@ export const infos = {
   endereco: (
     <div>
       <p>Endereço:</p>
-      <p>Av. Engenheiro Domingos Ferreira, nº 1195,</p>
-      <p>Caixa postal 259,</p>
-      <p>Bairro Boa Viagem Recife - PE,</p>
+      <p>Av. Engenheiro Domingos Ferreira, nº 1195</p>
+      <p>Caixa postal 259, Bairro Boa Viagem</p>
+      <p> Recife - PE</p>
       <p>CEP 51111-020</p>
     </div>
   ),
