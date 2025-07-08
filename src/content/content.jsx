@@ -395,7 +395,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É O DR. GLAYDSON WAGNER",
+      miniTag: "QUEM É O DR. GLAYDSON WAGNER CORDEIRO",
       title: "Minha trajetória",
       subtitle:
         "Advogado criminalista desde 2012, especializado em Direito Penal e Processual Penal, com atuação em grandes contenciosos.",
