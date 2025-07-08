@@ -45,7 +45,7 @@ import imgTestimonial4 from "../assets/imgs/testimonials/deposition4.png";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Advogado Glaydson Wagner",
+  name: "Advogado Glaydson Wagner Cordeiro",
   email: "contato", // Email desejado pelo cliente
   domain: "gwagneradvocacia.com.br ", // Sem "www"
   phone: {
