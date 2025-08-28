@@ -96,7 +96,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO EM RECIFE - PE",
+      miniTag: "ADVOGADO TRABALHISTA E PREVIDENCIÁRIO",
       title: (
         <h1 className="mb-[16px]">
           Nos momentos mais difíceis,
@@ -282,8 +282,8 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Cível",
-        subtitle: "Soluções jurídicas para conflitos e contratos.",
+        title: "Previdenciário",
+        subtitle: "Garantia de benefícios e direitos junto ao INSS.",
         description: (
           <div>
             A_Definir
@@ -398,12 +398,13 @@ const content = {
       miniTag: "QUEM É O DR. GLAYDSON WAGNER CORDEIRO",
       title: "Minha trajetória",
       subtitle:
-        "Advogado criminalista desde 2012, especializado em Direito Penal e Processual Penal, com atuação em grandes contenciosos.",
+        "Advogado criminal-trabalhista-previdenciário desde 2012, especializado em Direito Penal e Processual Penal, Direito Trabalhista e Previdenciário (Especialização Lato sensu) com atuação em grandes contenciosos.",
       paragraph: (
         <div>
           Minha jornada na advocacia começou em 2012, e desde então, tenho me
-          dedicado ao Direito Penal e Processual Penal, áreas que escolhi pela
-          intensidade e pela luta constante pela justiça.
+          dedicado à direitos sociais, como Direito Penal e Processual Penal,
+          Trabalhista e Previdenciário, áreas que escolhi pela intensidade e
+          pela luta constante pela justiça.
           <br />
           Ao longo dos anos, tive a oportunidade de atuar em grandes
           contenciosos cíveis e trabalhistas, sempre buscando a melhor solução
@@ -414,8 +415,9 @@ const content = {
       modal: (
         <p>
           Minha jornada na advocacia começou em 2012, e desde então, tenho me
-          dedicado ao Direito Penal e Processual Penal, áreas que escolhi pela
-          intensidade e pela luta constante pela justiça.
+          dedicado à direitos sociais, como Direito Penal e Processual Penal,
+          Trabalhista e Previdenciário, áreas que escolhi pela intensidade e
+          pela luta constante pela justiça.
           <br />
           <br />
           Ao longo dos anos, tive a oportunidade de atuar em grandes
@@ -453,11 +455,6 @@ const content = {
           Meu trabalho não é apenas técnico, mas também uma parceria, onde meu
           cliente sabe que estou ao seu lado, pronto para lutar pelos seus
           direitos com empatia e total dedicação.
-          <br />
-          <br />
-          Se você busca um advogado comprometido com sua causa, com experiência
-          e um olhar moderno sobre o Direito, estou à disposição para ajudá-lo a
-          resolver suas questões jurídicas de forma estratégica e eficaz.
           <br />
           <br />
         </p>
